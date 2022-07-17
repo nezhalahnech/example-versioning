@@ -1,4 +1,4 @@
 outs:
-- md5: 338f8a5810c8f74b0dd9d8c5c7076e8f
+- md5: bafa8c909df70506570d4132a3f24c49
   size: 8406200
   path: model.h5
